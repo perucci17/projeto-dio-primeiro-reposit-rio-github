@@ -1,2 +1,2 @@
-# projeto-dio-primeiro-reposit-rio-github
+#  PROJETO DIGITAL DIO GIT/GIHUB
 Desafio de projeto sobre git/github
